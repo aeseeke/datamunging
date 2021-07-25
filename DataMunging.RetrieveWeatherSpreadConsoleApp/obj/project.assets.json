@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devon\\source\\repos\\DataMunging\\DataMunging.RetrieveWeatherSpreadConsoleApp\\DataMunging.RetrieveWeatherSpreadConsoleApp.csproj",
-      "projectName": "DataMunging.RetrieveWeatherSpreadConsoleApp",
-      "projectPath": "C:\\Users\\devon\\source\\repos\\DataMunging\\DataMunging.RetrieveWeatherSpreadConsoleApp\\DataMunging.RetrieveWeatherSpreadConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\devon\\source\\repos\\DataMunging\\DataMunging.RetrieveWeatherSpreadConsoleApp\\DataMunging.RetrieveWeatherSpread.csproj",
+      "projectName": "DataMunging.RetrieveWeatherSpread",
+      "projectPath": "C:\\Users\\devon\\source\\repos\\DataMunging\\DataMunging.RetrieveWeatherSpreadConsoleApp\\DataMunging.RetrieveWeatherSpread.csproj",
       "packagesPath": "C:\\Users\\devon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\devon\\source\\repos\\DataMunging\\DataMunging.RetrieveWeatherSpreadConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
