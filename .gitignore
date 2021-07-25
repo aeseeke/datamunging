@@ -3,3 +3,6 @@
 ################################################################################
 
 /DataMunging/obj
+/.vs/DataMunging/v16
+/DataMunging.Common/obj
+/DataMunging.ConsoleApp/obj
