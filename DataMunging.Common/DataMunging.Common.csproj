@@ -3,9 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
-  
+
   <ItemGroup>
-    <Resource Include="Data\weather.dat" />
+    <Folder Include="Data\" />
   </ItemGroup>
 
   <ItemGroup>
